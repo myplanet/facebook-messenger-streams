@@ -9,5 +9,8 @@
   "author": "Nick Matantsev <nick.m@myplanet.com>",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.14.0",
+    "express-x-hub": "^1.0.4",
+    "request": "^2.79.0"
   }
 }
