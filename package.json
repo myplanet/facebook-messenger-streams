@@ -1,0 +1,13 @@
+{
+  "name": "messenger-streams",
+  "version": "0.0.0",
+  "description": "Facebook Messenger Streaming API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Matantsev <nick.m@myplanet.com>",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
