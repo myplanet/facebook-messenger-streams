@@ -1,6 +1,6 @@
 {
   "name": "facebook-messenger-streams",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Facebook Messenger Streaming API",
   "main": "index.js",
   "scripts": {
